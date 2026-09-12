@@ -1,0 +1,12 @@
+title=Local LLM GUI
+width=1200
+height=820
+ollama_host=127.0.0.1
+ollama_port=11434
+bridge_host=127.0.0.1
+bridge_port=18767
+default_model=
+font_family=Yu Gothic UI
+font_size=11
+theme=dark
+setup_complete=false
